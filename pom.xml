@@ -96,7 +96,8 @@
                         <manifest>
                             <addClasspath>false</addClasspath>
                             <classpathPrefix>lib/</classpathPrefix>
-                            <mainClass>org.chencoming.ParseDataToFileElementMR</mainClass>
+                            <!--<mainClass>org.chencoming.ParseDataToFileElementMR</mainClass>-->
+                            <mainClass>org.chencoming.word.WordCountMR</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
@@ -114,7 +115,8 @@
                     <archive>
                         <manifest>
                             <addClasspath>false</addClasspath>
-                            <mainClass>org.chencoming.ParseDataToFileElementMR</mainClass>
+                            <!--<mainClass>org.chencoming.ParseDataToFileElementMR</mainClass>-->
+                            <mainClass>org.chencoming.word.WordCountMR</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
